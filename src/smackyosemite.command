@@ -7,7 +7,7 @@
 # bocksg@plu.edu
 # November 4th, 2014
 #
-# Originally rebuilt by Jason Shen for OS X Lion
+# Originally rebuilt by Jason Shen for OS X Leopard
 # iamreal2@hotmail.com
 # 16 Nov 2007
 #
