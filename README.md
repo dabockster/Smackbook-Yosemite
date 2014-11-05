@@ -3,7 +3,7 @@ Smackbook for OS X Yosemite
 
 https://www.youtube.com/watch?v=4iyeqh9zHf8
 
-### NOTE: This script will not work with any Macbooks shipped with SSDs. This includes the Retina Macbook Pro and recent Macbook Air models.
+#### NOTE: This script will not work with any Macbooks shipped with SSDs. This includes the Retina Macbook Pro and recent Macbook Air models.
 
 This is an updated version of Erling Ellingsen's Smackbook script originally written in 2006.
 
