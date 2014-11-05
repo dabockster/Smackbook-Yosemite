@@ -1,7 +1,7 @@
 Smackbook for OS X Yosemite
 ==================
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/4iyeqh9zHf8" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=SmDCC6ZbBYQ
 
 This is an updated version of Erling Ellingsen's Smackbook script originally written in 2006.
 
