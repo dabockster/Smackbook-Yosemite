@@ -1,7 +1,7 @@
 Smackbook for OS X Yosemite
 ==================
 
-https://www.youtube.com/watch?v=4iyeqh9zHf8
+[![Youtube Link](http://img.youtube.com/vi/4iyeqh9zHf8/0.jpg)](http://www.youtube.com/watch?v=4iyeqh9zHf8)
 
 #### NOTE: This script will not work with any Macbooks shipped with SSDs. This includes the Retina Macbook Pro and recent Macbook Air models.
 
