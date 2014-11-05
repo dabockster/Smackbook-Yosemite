@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=4iyeqh9zHf8
 
 To check for compatibility, go here: http://support.apple.com/en-us/HT1935
 
-
+---
 
 This is an updated version of Erling Ellingsen's Smackbook script originally written in 2006.
 
