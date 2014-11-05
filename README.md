@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=4iyeqh9zHf8
 
 #### NOTE: This script will not work with any Macbooks shipped with SSDs. This includes the Retina Macbook Pro and recent Macbook Air models.
 
+To check for compatibility, go here: http://support.apple.com/en-us/HT1935
+
 This is an updated version of Erling Ellingsen's Smackbook script originally written in 2006.
 
 This script uses the Sudden Motion Sensor (SMS) found in some of the older Macbook models to detect the movement of the machine when light pressure is applied to either side of the screen. Since the SMS is, in reality, a triaxial accelerometer, many apps can read the data from it to give the Macbook a degree of awareness of its movement. Think of how a phone or tablet is used in this respect. The Macbook's SMS can be used in similar ways. This script is a rough demonstration of these capabilities.
