@@ -7,3 +7,15 @@ I found this online after being virtually untouched for roughly eight years. (To
 
 USAGE
 ---------------
+
+To use this script:
+
+* Download AMSTracker from here: http://www.osxbook.com/software/sms/amstracker/
+* Extract the AMSTracker program from the .dmg and place it in the same folder as the script
+* Open up Terminal and run
+    chmod +x smackbookyosemite.command
+* Run the script
+* ???
+* Profit
+
+Licensed under GNU 2.0 due to inheritance from previous developers
