@@ -23,9 +23,9 @@ To use this script:
 * Download AMSTracker from here: http://www.osxbook.com/software/sms/amstracker/
 * Extract the AMSTracker program from the .dmg and place it in the same folder as the script
 * Open up Terminal and run
-        '''
+        ```
         perl smack.pl
-        '''
+        ```
 * ???
 * Profit
 
